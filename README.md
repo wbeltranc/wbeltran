@@ -1,6 +1,8 @@
-# wbeltran
+# Hi there, my name is Will Beltran
 <p align="center">
   <samp>
-    I'm <a href="https://coderjojo.github.io/">Vedant</a> currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I have been working with web development since 2010, the period during which I have worked in different environments, from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as Magento,  Wordpress, Joomla, Drupal, ReactJS, VueJS, MySQL, PostgreSQL, MongoDb, Python, Django, Ruby, GruntJS, SASS, LESS, Bootstrap, jQuery, and more.
   </samp>
 </p>
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
